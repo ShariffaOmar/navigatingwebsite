@@ -1,0 +1,163 @@
+.container-fluid {
+  padding: 0;
+  margin: 0;
+}
+
+div {
+  padding: 0;
+  margin: 0;
+}
+
+button {
+  -webkit-appearance: none;
+ 
+}
+
+
+#navBar {
+  width: 100%;
+  list-style: none;
+  position: fixed;
+  padding: 0;
+  margin: 0;
+  border-width: 10px;
+  border-style: ridge;
+  background-color: #d3d3d3;
+  z-index: 10;
+}
+
+li {
+  display: inline;
+  padding-left: 10px;
+  padding-right: 10px;
+  font-size: 25px;
+  color: black;
+  opacity: 1.0;
+  font-weight: bold;
+  font-family: Roboto Condensed;
+  padding-bottom: 0;
+  margin-bottom: 0;
+}
+
+#name {
+  float: right;
+}
+
+#homePage {
+  margin-top: 0;
+  height: 800px;
+  width: 100%;
+  background-color: #787a79;
+  background-image: url('https://c.stocksy.com/a/kPA700/z9/1708332.jpg');
+
+}
+
+
+#introTitle {
+  padding-top: 50px;
+  font-family: 'Lobster', sans-seriff;
+  font-size: 50px;
+}
+
+#subHead {
+  font-family: 'Roboto Condensed', sans-seriff;
+  font-weight: bold;
+  font-size: 20px;
+}
+
+#contactBar {
+  text-align: center;
+  padding-top: 80px;
+}
+
+.contactInfo {
+  background-color: silver;
+}
+
+
+/* end of home */
+
+#visualizing {
+  height: 800px;
+  background-color: grey;
+}
+
+#padRow {
+  padding-top: 30px;
+  padding-left: 10px;
+}
+
+#aboutHeading {
+  font-family: 'Lobster', sans-seriff;
+  font-size: 65px;
+  margin-top: 0;
+  text-decoration: underline;
+  padding-left: 30px;
+  padding-top: 4px;
+}
+
+.aboutParagraphs {
+  font-size: 20px;
+  font-family: 'Roboto Condensed', sans-seriff;
+  font-weight: bold;
+  padding: 0;
+  z-index: 20;
+  padding-left: 20px;
+}
+
+
+/* about page ends */
+
+#adversity {
+  height: 800px;
+  background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRdRaIzSGA50MCShD0e5EEPPI7wW4LnYapyPg&usqp=CAU');
+}
+
+#portIntro {
+  margin-top: 0;
+  font-family: 'Lobster', sans-seriff;
+  font-size: 80px;
+  padding-top: 30px;
+  text-decoration: underline;
+  color: #C63D0F;
+  
+}
+
+#portDesc {
+  font-family: 'Roboto Condensed', sans-seriff;
+  font-size: 25px;
+  color: #FDF3E7;
+  font-weight: bold;
+  padding-bottom: 25px;
+}
+
+.adversityImage {
+  padding-left: 50px;
+  padding-bottom: 30px;
+}
+
+
+/* done with portfolio */
+
+#colonialsm {
+  height: 250px;
+  background-color: gray;
+  
+}
+
+
+}
+
+.text-block {
+  position: absolute;
+  bottom: 20px;
+  right: 20px;
+  background-color: #222;
+  color: white;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+.visualising{
+
+}
+
